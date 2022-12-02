@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @KevinBlaue
-- 👀 I’m interested in web and application development 
+- 🏢 I'm a software developer at Fielmann AG, Hamburg Germany
+- 👀 I’m interested in web and application development
 - 🌱 I’m currently learning cloud computing services (AWS)
 
 <!---
