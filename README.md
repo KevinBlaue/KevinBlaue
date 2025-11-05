@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KevinBlaue
-- 🏢 I'm a software developer at Fielmann AG, Hamburg Germany
+- 🏢 I'm a software developer at freenet DLS, Buedelsdorf Germany
 - 🎓 I have a bachelors degree in Applied Computer Science (BS) and
      a bachelors degree in Sociology and Social- & Businesspsychology (BA)
 - 👀 I’m interested in web, application and full-stack development
